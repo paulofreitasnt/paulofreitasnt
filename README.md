@@ -12,3 +12,7 @@
 
 ### Áreas de interesse
 * :closed_book: Atualmente, tenho interesse em bancos de dados NoSQL e NewSQL, Data Science e BI
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitasnt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofreitasnt&show_icons=true&theme=tokyonight)
