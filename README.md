@@ -10,7 +10,9 @@
 * :office: Professor no IFPB, Cajazeiras
 
 ### Áreas de interesse
-* :closed_book: Atualmente, tenho interesse em bancos de dados NoSQL e NewSQL, Data Science e BI
+* NoSQL e NewSQL 
+* Data Science
+* Business Intelligence
 
 ### Disciplinas ministradas atualmente
 * Curso de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS):
