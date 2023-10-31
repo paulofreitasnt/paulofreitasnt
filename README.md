@@ -4,9 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:paulo.freitas.nt@gmail.com)
 
 ### Sobre mim
-* :school: Bacharel em Ciência da Computação - UFERSA
-* :school: Mesre em Ciência da Computação - UFERSA
-* :office: Professor no IFPB, Cajazeiras
+* :man_student: Bacharel em Ciência da Computação - UFERSA
+* :man_student: Mesre em Ciência da Computação - UFERSA
+* :man_teacher: Professor no IFPB, Cajazeiras
 
 ### Áreas de interesse
 * NoSQL e NewSQL 
